@@ -1,6 +1,3 @@
-[![This is my github account](https://github.com/777lijiaqi?tab=repositories)](https://github.com/lijiaqi777.io)
-
-
 
 #### Email  
 <code>2001lijiaqi@gmail.com</code>  

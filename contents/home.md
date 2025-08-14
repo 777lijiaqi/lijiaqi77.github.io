@@ -1,10 +1,10 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![This is my github account](https://github.com/777lijiaqi?tab=repositories)](https://github.com/lijiaqi777.io)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>2001lijiaqi@gmail.com</code>  
+<code>lijiaqi20010728@163.com</code>
 
 #### Education  
 **XX University**, Master of XX (XX – XX)  
@@ -17,4 +17,5 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
 • GPA: XX/XX (top XX%)  
 
 #### Research Interests  
+
 XX, XX, XX, XX.
